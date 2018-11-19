@@ -2,7 +2,7 @@ package synth;
 
 
 
-import com.sun.javafx.image.IntPixelGetter;
+//import com.sun.javafx.image.IntPixelGetter;
 
 import javax.sound.midi.*;
 import java.util.ArrayList;
