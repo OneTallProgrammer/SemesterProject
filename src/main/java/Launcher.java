@@ -34,7 +34,7 @@ public class Launcher {
 
 	private void loadMusic() {
 		try {
-			scan = new Scanner(new File("src/main/java/song.abc"));
+			scan = new Scanner(new File("src/main/java/DieTrennung.abc"));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
